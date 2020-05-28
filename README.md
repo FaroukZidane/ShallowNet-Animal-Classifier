@@ -35,7 +35,7 @@ Thats it! It accepts an input image, apply the convolutions followed by the acti
 
 The “Animals” dataset is a simple example dataset to demonstrate how to train image classifiers using simple machine learning techniques as well as advanced deep learning algorithms. Images inside the Animals dataset belong to three distinct classes: dogs, cats, and pandas, with 1,000 example images per class.
 
-![]()
+![](https://github.com/FaroukZidane/ShallowNet-Animal-Classifier/raw/master/doc/images/dataset.png)
 
 Dataset kaggle link: [HERE](https://www.kaggle.com/ashishsaxena2209/animal-image-datasetdog-cat-and-panda/data)
 
@@ -55,4 +55,4 @@ Training is held at `batch_size =3 2`, `epoch = 100` and `tensorflow_gpu`
 
 ## ShallowNet Results
 
-![]()
+![](https://github.com/FaroukZidane/ShallowNet-Animal-Classifier/raw/master/doc/images/res.png)
