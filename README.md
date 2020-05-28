@@ -1,4 +1,4 @@
-# Simple Convolutional Neural Network (ShallowNet) using Keras on Animal Dataset
+# Simple Convolutional Neural Network (ShallowNet) implementation using Keras on the Animals Dataset
 
 ------
 
@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This project shows up the power of convolutional neural network in computer vision. This network comprises just one convolutional layer, that's why it's named ShallowNet, and achieves good results on classifying three classes on the animal dataset.
+This project shows up the power of convolutional neural network in computer vision. This network comprises just one convolutional layer, that's why it's named ShallowNet, and achieves good, comparing to its simplicity, results on classifying three classes on the animal dataset.
 
 
 
@@ -19,7 +19,7 @@ This project shows up the power of convolutional neural network in computer visi
 - imutils
 - argparse
 
-
+*NOTE: The versions of the modules mentioned above are the exact versions used in this project. I faced some problems regarding newer Keras versions with tensorflow 1.14, so please confirm if it works with different versions with you.*
 
 ## The Network
 
